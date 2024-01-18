@@ -11,3 +11,6 @@ O projeto é um site de eventos, você pode adiconar eventos, excluir, se inscre
 - LARAVEL
 - PHP
 - MySQL
+
+## Dificuldades e Aprendizado
+De dificuldade tive apenas em entender os conceitos novos, mas a grande maioria eu já entendia por já ter usado o mesmo conceito em outras linguagens. De ensinamento tive a própria linguagem e seu ensinamento, bem como usar um ORM, utlizar as migrations e fazer o CRUD.
